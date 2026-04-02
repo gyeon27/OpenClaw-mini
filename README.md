@@ -1,2 +1,3 @@
 # OpenClaw-mini
-Light AI  abased on Mamba model
+Mamba-based lightweight AI agent
+
